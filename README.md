@@ -14,7 +14,7 @@ git --version
 4º) Se o Git não estiver instalado, instale-o usando o gerenciador de pacotes do seu sistema operacional. No Ubuntu, por exemplo, você pode instalar o Git com o seguinte comando:
 ```
 sudo apt-get update
-sudo apt-get install git
+sudo apt-get install -y git
 ```
 5º) No Github, abra o repositório que você deseja clonar.
 
