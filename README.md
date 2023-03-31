@@ -1,4 +1,6 @@
-# Sobre: Para baixar um repositório no Github, escolher uma pasta no Linux para clonar o repositório e rodar um script .sh, siga os seguintes passos: <br>
+# Script para: Script de automação de instalação em bash para instalar o Google Chrome, VMWarePlayer, VSCode e VLC com um menu de escolha para o usuário. <br>
+
+# APRENDA MAIS [+]: Para baixar um repositório no Github, escolher uma pasta no Linux para clonar o repositório e rodar um script .sh, siga os seguintes passos: <br>
 
 
 1º) Abra o terminal no Linux.
