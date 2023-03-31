@@ -3,9 +3,9 @@
 
 1º) Abra o terminal no Linux.
 
-2º)Navegue até a pasta em que deseja clonar o repositório. Para navegar até uma pasta no terminal, use o comando cd nome_da_pasta.
+2º) Navegue até a pasta em que deseja clonar o repositório. Para navegar até uma pasta no terminal, use o comando cd nome_da_pasta.
 
-3º)Verifique se o Git está instalado digitando o seguinte comando no terminal:
+3º) Verifique se o Git está instalado digitando o seguinte comando no terminal:
 ```
 git --version
 ```
