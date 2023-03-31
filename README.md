@@ -5,7 +5,7 @@
 Para executar o script, basta salvá-lo em um arquivo com a extensão .sh, dar permissão de execução com o comando chmod +x nome_do_arquivo.sh e executá-lo com o comando ./install.sh
 ```
 
-<b># Redes Sociais<b><br>
+# Redes Sociais
 Linkedin: https://www.linkedin.com/in/thalles-canela/ <br>
 YouTube:  https://www.youtube.com/c/aXR6CyberSecurity <br>
 Facebook: https://www.facebook.com/axr6PenTest <br>
