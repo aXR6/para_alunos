@@ -28,7 +28,8 @@ git clone link_do_repositório
 
 8º) Navegue até a pasta do repositório clonado:
 ```
-Navegue até a pasta do repositório clonado:
+Por exemplo:
+cd /home/user/Documentos/Projetos
 ```
 9º) Se o script que você deseja executar já estiver na pasta do repositório, digite o seguinte comando para torná-lo executável:
 ```
