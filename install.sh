@@ -42,17 +42,17 @@ while true; do
             sudo apt-get install code
             ;;
         4)
-            # instalação do VLC
-            sudo apt-get update
-            sudo apt-get install -y vlc
-            ;;
-        5)
             # instalação do Microsoft Teams
             sudo apt install curl -y
             curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor | sudo tee /usr/share/keyrings/ms-teams.gpg > /dev/null
             echo 'deb [signed-by=/usr/share/keyrings/ms-teams.gpg] https://packages.microsoft.com/repos/ms-teams stable main' | sudo tee /etc/apt/sources.list.d/ms-teams.list
             sudo apt update -y
             sudo apt install teams -y
+            ;;
+        5)
+            # instalação do VLC
+            sudo apt-get update
+            sudo apt-get install -y vlc
             ;;
         6)
             # instalação do Docker
